@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325305406356",
+    "project_id": "pedaoption",
+    "storage_bucket": "pedaoption.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325305406356:android:940995ee96e64c1fda7581",
+        "android_client_info": {
+          "package_name": "com.example.pedaption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325305406356-vf3f0h4srls8dndlccconpbiacdblh3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHBMWcp7bJUmQqilCKpoiiARBIQxJVID4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325305406356-vf3f0h4srls8dndlccconpbiacdblh3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
